@@ -18,12 +18,12 @@ You can then connect to the emulator from the interface or by pressin a for andr
 
 
 ![Demo](home1.PNG)
-![Demo](meds1.png)
-![Demo](details.png)
-![Demo](addTime.png)
-![Demo](alarm.png)
-![Demo](preview.png)
-![Demo](progress.png)
+![Demo](meds1.PNG)
+![Demo](details.PNG)
+![Demo](addTime.PNG)
+![Demo](alarm.PNG)
+![Demo](preview.PNG)
+![Demo](progress.PNG)
 
 The application will be published to the stores soon.
 
