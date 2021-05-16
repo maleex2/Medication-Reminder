@@ -17,4 +17,15 @@ to start the deployment server.
 You can then connect to the emulator from the interface or by pressin a for android and i for ios.
 
 
+![Demo](home1.png)
+![Demo](meds1.png)
+![Demo](details.png)
+![Demo](addTime.png)
+![Demo](alarm.png)
+![Demo](preview.png)
+![Demo](progress.png)
+
 The application will be published to the stores soon.
+
+
+
