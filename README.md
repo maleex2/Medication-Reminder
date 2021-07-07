@@ -25,7 +25,7 @@ You can then connect to the emulator from the interface or by pressin a for andr
 ![Demo](preview.PNG)
 ![Demo](progress.PNG)
 
-The application will be published to the stores soon.
+The application is not published to the stores.
 
 
 
