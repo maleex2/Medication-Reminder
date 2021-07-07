@@ -9,11 +9,11 @@ The objective of this project was to develop a multiplatform mobile application 
 To run and test the application on a pc, you will need an emulator provided by XCode or Android Dev Studio.
 For android studio, create a emulator with x86 system.
 
-In terminal, cd into the project dirctory and run
-npm install
-to isntall dependecies. After that run
-expo start 
-to start the deployment server.
+In terminal, cd into the project dirctory and run: <br/>
+npm install <br/>
+to install dependecies. After that run: <br/>
+expo start  <br/>
+to start the deployment server. <br/>
 You can then connect to the emulator from the interface or by pressin a for android and i for ios.
 
 
